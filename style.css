@@ -1,0 +1,146 @@
+body{
+    max-width: 100%;
+    margin: 0;
+    font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif)),Helvetica,Arial,sans-serif;
+
+}
+.container{
+    width: 28em;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10em;
+}
+.spotifyLogo{
+    height: 9em;
+    
+}
+.head-text{
+    font-size: 1.7em;
+    font-weight: 700;
+    margin:-0.8em 0 1.5em 0;
+    letter-spacing: -0.06em
+}
+.fb-img{
+    height: 1.5em;
+    border-radius: 50%;
+    margin: 0px 5px -5px 0;
+}
+.facebook{
+    background-color: #3f5a93;
+    border-radius: 30em;
+    width: 23em;
+    line-height: 3em;
+    margin: 0 auto;
+    margin-bottom: 1.2em;
+}
+.fb-button{
+    background-color: #3f5a93;
+    cursor: pointer;
+    border: none;
+    color: white;
+    text-align: center;
+}
+.google-img{
+    height: 1.5em;
+    margin: 0px 5px -5px 0;
+}
+.google{
+    background-color: white;
+    border: solid 2px #7d7d7d;
+    border-radius: 30em;
+    width: 23em;
+    line-height: 3em;
+    margin: 0 auto;
+    margin-bottom: 1.2em;
+}
+.google-button{
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    color: #535353;
+    text-align: center;
+}
+.fb-p , .google-p {
+    font-size: 1.2em;
+    font-weight: 700;
+}
+hr{
+    width: 80%;
+    margin: 2em auto;
+}
+.main-text{
+    letter-spacing: -0.06em;
+    margin-bottom: 1.5em;
+}
+.text-label{
+    display: block;
+    font-weight: 700;
+    text-align: left;
+    margin-bottom: 0.4em;
+    letter-spacing: -0.04em
+}
+.text{
+    font-size: 1em;
+    width: 100%;
+    height: 2.5em;
+    border: solid 1px #8e979e;
+    border-radius: 0.3em;
+
+}
+form div{
+    margin-bottom: 1.8em;
+}
+.radio-box{
+    margin-top: 1em;
+    text-align: left;
+    width:85%;
+}
+.radio{
+    margin: 0 0.5em 1em 0;
+    border: 1px #8e979e;
+    position: relative;
+}
+.radio-label{
+    margin-right: 1em;
+}
+.term{
+    width: 100%;
+    text-align: left;
+    margin: 0 0 3em -0.3em;
+}
+.square-radio{
+    display: inline;
+    border: #8e979e 1px;
+}
+.term-label{
+    display: inline;
+    float:left;
+    margin:-1.5em 0 0 2em;
+    top: 4em;
+    font-size: 0.9em;
+}
+p a{
+    color: #5fc06a;
+}
+.terms ,.privacy{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 1.5em;
+    font-size: 0.65em;
+    width: 80%;
+}
+.signUp-btn{
+    color: black;
+
+    background-color: #1bd760;
+    border: none;
+    border-radius: 30em;
+    height: 3em;
+    width: 8em;
+    font-size: larger;
+    font-weight: 700;
+    margin: 1em auto ;
+    cursor: pointer;
+}    
+
+    
