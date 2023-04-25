@@ -39,7 +39,7 @@ body{
     margin: 0 auto;
     margin-bottom: 1.2em;
 }
-.fb-button{
+.fb-btn{
     background-color: #3f5a93;
     cursor: pointer;
     border: none;
@@ -59,7 +59,7 @@ body{
     margin: 0 auto;
     margin-bottom: 1.2em;
 }
-.google-button{
+.google-btn{
     background-color: white;
     cursor: pointer;
     border: none;
