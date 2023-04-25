@@ -70,6 +70,12 @@ body{
     font-size: 1.2em;
     font-weight: 700;
 }
+.facebook:hover{
+    transform: scale(1.05);
+}
+.google:hover{
+    transform: scale(1.05);
+}
 hr{
     width: 80%;
     margin: 2em auto;
@@ -148,6 +154,9 @@ p a{
     font-weight: 700;
     margin: 1em auto ;
     cursor: pointer;
-}    
+}
+.signUp-btn:hover{
+    transform: scale(1.05);
+}
 
     
